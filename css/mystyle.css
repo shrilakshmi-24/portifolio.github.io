@@ -1,0 +1,95 @@
+body {
+    background:  rgb(255, 255, 255)
+}
+
+#header a:hover {
+    color: rgb(255, 245, 245);
+}
+
+#header a:active {
+    color: rgb(255, 0, 0);
+}
+
+#bg-img {
+    background: url('../images/bg.jpeg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+#container table tr{
+    text-align: center;
+}
+#About {
+    margin-top: -200px;
+}
+
+#About .fa {
+    color: #FFF;
+    font-size: 2rem;
+    margin-left: 3rem;
+}
+
+#About span 
+{
+    padding: 10px 20px 10px 20px;
+}
+.media-body h3{
+    text-align: center;
+}
+
+#About hr{
+    border-top: 5px solid red;
+    margin-top: 6px;
+}
+
+#About p {
+    text-align: left;
+}
+
+#Education span {
+    padding: 10px 20px 10px 20px;
+}
+
+#Education hr {
+    border-top: 5px solid red;
+    margin-top: 6px;
+}
+
+#Skills span {
+    padding: 10px 20px 10px 20px;
+}
+
+#Skills hr{
+    border-top: 5px solid red;
+    margin-top: 6px;
+}
+
+#Internship span {
+    padding: 10px 20px 10px 20px;
+}
+
+#Internship hr{
+    border-top: 5px solid red;
+    margin-top: 6px;
+}
+
+#Internship .card{
+    border-top: 3px solid red;
+}
+#Project span {
+    padding: 10px 20px 10px 20px;
+}
+
+#Project hr{
+    border-top: 5px solid red;
+    margin-top: 6px;
+}
+
+#contact span {
+    padding: 10px 20px 10px 20px;
+}
+
+#contact hr{
+    border-top: 5px solid red;
+    margin-top: 6px;
+}
